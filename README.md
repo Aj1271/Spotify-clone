@@ -1,2 +1,2 @@
 # Spotify-clone
-spotify clone
+spotify clone builded up using html and css.
